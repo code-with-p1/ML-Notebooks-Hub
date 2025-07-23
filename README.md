@@ -24,7 +24,7 @@ Each notebook includes:
 
 ## 📂 Repository Structure  
 ```bash
-ML-Model-Zoo-Notebooks/  
+ML-Notebooks-Hub/  
 │
 ├── 📁 Supervised_Learning/  
 │   ├── Linear_Regression.ipynb  
