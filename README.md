@@ -1,4 +1,4 @@
-# 📖 ML Notebooks Hub  
+# 📖 ML Notebooks Hub
 *A curated collection of Jupyter notebooks implementing various machine learning models with examples, explanations, and best practices.*  
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/ML-Model-Zoo-Notebooks)  
